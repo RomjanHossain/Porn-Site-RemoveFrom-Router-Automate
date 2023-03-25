@@ -4,7 +4,8 @@ This repository contains a Python script that automates the process of blocking 
 ## Tutorial Video
 
 If you're new to Playwright or Python automation, we recommend you watch the tutorial video that accompanies this repository. The video will guide you through the steps required to use the script to block pornographic websites on your router. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X1Q3MGhOElk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://www.youtube.com/embed/X1Q3MGhOElk
 
 ## How to Use
 
